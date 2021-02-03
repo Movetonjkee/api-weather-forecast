@@ -1,6 +1,13 @@
-html, body {
-    font-family: serif;
+.text-center {
+    text-align: center;
 }
-body {
-    margin: 20px;
+
+/* .s-1 {
+	padding-bottom: 5px;
+} */
+
+
+.s-1 {
+	padding-right: 55px;
+	margin-bottom: 20px;
 }
